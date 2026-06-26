@@ -41,8 +41,8 @@ A deep learning-based stock market prediction system that uses **Long Short-Term
 ## 📂 Project Structure
 
 ```
-StockMarketPrediction.ipynb
 README.md
+Stock_Market_Prediction_LSTM_model
 ```
 
 ---
