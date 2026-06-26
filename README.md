@@ -104,8 +104,8 @@ Prediction
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/StockMarketPrediction.git
-cd StockMarketPrediction
+git clone https://github.com/yourusername/Stock_Market_Prediction_LSTM_model.git
+cd Stock_Market_Prediction_LSTM_model
 ```
 
 Install dependencies
